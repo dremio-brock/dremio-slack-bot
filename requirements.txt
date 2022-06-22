@@ -15,7 +15,7 @@ kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 multidict==4.7.4
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pyodbc==4.0.28
 pyparsing==2.4.6
